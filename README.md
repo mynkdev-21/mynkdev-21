@@ -162,17 +162,37 @@ A multi-game platform with real-time gameplay communication and wallet infrastru
 
 ---
 
+
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img width="49%"
-    src="https://github-stats-extended.vercel.app/api?username=mynkdev-21&show_icons=true&theme=default&hide_border=true"
-    alt="GitHub Statistics"/>
-
-  <img width="49%"
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=mynkdev-21&layout=compact&langs_count=8&theme=default&hide_border=true"
-    alt="Most Used Languages"/>
-</p>
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img
+        src="https://github-stats-extended.vercel.app/api?username=mynkdev-21&show_icons=true&theme=default&hide_border=true"
+        width="100%"
+        alt="GitHub Statistics"
+      />
+    </td>
+    <td width="50%" align="center">
+      <img
+        src="https://github-stats-extended.vercel.app/api/top-langs/?username=mynkdev-21&layout=compact&langs_count=8&theme=default&hide_border=true"
+        width="100%"
+        alt="Most Used Languages"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <br/>
+      <img
+        src="https://streak-stats.demolab.com?user=mynkdev-21&theme=default&hide_border=true"
+        width="100%"
+        alt="GitHub Contribution Streak"
+      />
+    </td>
+  </tr>
+</table>
 
 ---
 
