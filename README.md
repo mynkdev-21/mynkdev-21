@@ -79,10 +79,14 @@ I'm a software developer focused on building complete digital products, from sys
 
 `AWS EC2` · `Self-hosted Infrastructure` · `CDN Architecture` · `CI/CD` · `Server Administration`
 
+
 ### 07. Artificial Intelligence
 
 <p>
-  <img src="https://skillicons.dev/icons?i=openai&theme=light" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Anthropic-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenRouter-6467F2?style=for-the-badge&logo=openrouter&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
 </p>
 
 `OpenAI API` · `Claude API` · `OpenRouter` · `LangChain` · `AI Automation` · `LLM Integration`
@@ -90,10 +94,13 @@ I'm a software developer focused on building complete digital products, from sys
 ### 08. Payments & Integrations
 
 <p>
-  <img src="https://skillicons.dev/icons?i=stripe&theme=light" />
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
+  <img src="https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=3395FF" />
+  <img src="https://img.shields.io/badge/Google_Play_Billing-414141?style=for-the-badge&logo=googleplay&logoColor=white" />
 </p>
 
-`Stripe` · `Razorpay` · `Google Play Billing` · `Payment Gateway Integration`
+`Payment Gateway Integration` · `Subscription Systems` · `Payment APIs`
+
 
 ### 09. Security & Web3
 
