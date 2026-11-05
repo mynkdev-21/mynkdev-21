@@ -2,26 +2,36 @@
 
 ### Full Stack Developer · Android Engineer · Founder @ AmTech INFO
 
-Building scalable applications, intelligent systems, and production-ready software.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Google+Sans&weight=600&size=22&duration=3000&pause=1000&color=4285F4&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Android+Engineer;Backend+%26+Cloud+Architect;Independent+Product+Builder" alt="Typing SVG" />
+</p>
 
-I specialize in end-to-end product development, combining mobile engineering, backend architecture, modern frontend technologies, cloud infrastructure, and AI integrations.
+<p align="center">
+  Building scalable applications, intelligent systems, and production-ready software.
+</p>
 
-[**Portfolio**](https://mayankdeveloper.site) · [**LinkedIn**](https://linkedin.com/in/mynk-dev) · [**Company**](https://amtechinfo.online)
+<p align="center">
+  <a href="https://mayankdeveloper.site">Portfolio</a> ·
+  <a href="https://linkedin.com/in/mynk-dev">LinkedIn</a> ·
+  <a href="https://amtechinfo.online">AmTech INFO</a>
+</p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🚀 Building production-grade software products since age 16.
-- 📱 Experienced in Android application development and full-stack engineering.
-- ⚙️ Focused on scalable backend systems, API architecture, and infrastructure.
-- 🤖 Exploring AI-powered applications and intelligent automation.
-- ☁️ Experienced in self-hosted infrastructure, cloud deployment, and DevOps.
+I'm a software developer focused on building complete digital products, from system architecture and application development to deployment and infrastructure management.
+
+- 🚀 Building production-grade software since age 16.
+- 📱 Android and full-stack application development.
+- ⚙️ Scalable backend architecture and REST API development.
+- ☁️ Cloud infrastructure, DevOps and server administration.
+- 🤖 AI-powered applications and automation.
 - 🏢 Founder at **AmTech INFO**.
 
 ---
 
-## 💻 Technologies & Tools
+## 💻 Technical Skills
 
 ### Programming Languages
 
@@ -47,7 +57,7 @@ I specialize in end-to-end product development, combining mobile engineering, ba
   <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,php&theme=light" alt="Backend Development"/>
 </p>
 
-### Databases & Storage
+### Databases
 
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,supabase,sqlite&theme=light" alt="Databases"/>
@@ -67,11 +77,11 @@ I specialize in end-to-end product development, combining mobile engineering, ba
 
 **Additional Technologies**
 
-OpenAI API · Claude API · OpenRouter · LangChain · WebSockets · BullMQ · ExoPlayer / Media3 · Stripe · Razorpay · Google Play Billing · Tor · XChaCha20
+ExoPlayer / Media3 · WebSockets · BullMQ · OpenAI API · Claude API · OpenRouter · LangChain · Stripe · Razorpay · Google Play Billing · Tor · XChaCha20
 
 ---
 
-## 🏆 Achievements & Highlights
+## 🏆 Achievements
 
 <table>
   <tr>
@@ -85,19 +95,19 @@ OpenAI API · Claude API · OpenRouter · LangChain · WebSockets · BullMQ · E
       <h2>$40K+</h2>
       <b>AdSense Revenue</b>
       <br/>
-      <sub>From an Android application built at age 16</sub>
+      <sub>Android application built at age 16</sub>
     </td>
   </tr>
   <tr>
-    <td align="center">
+    <td align="center" width="50%">
       <h2>50+</h2>
       <b>Domains</b>
       <br/>
       <sub>AI-powered content ecosystem</sub>
     </td>
-    <td align="center">
+    <td align="center" width="50%">
       <h2>128GB</h2>
-      <b>Self-hosted Infrastructure</b>
+      <b>Server RAM</b>
       <br/>
       <sub>AMD EPYC · 64 CPU cores</sub>
     </td>
@@ -108,42 +118,42 @@ OpenAI API · Claude API · OpenRouter · LangChain · WebSockets · BullMQ · E
 
 ## 🚀 Featured Projects
 
-### Vidora
+### 01. Vidora
 **Video Hosting & Monetization Platform**
 
-A video platform built with a modern backend and Android ecosystem, focusing on video delivery, content management, and monetization.
+A video hosting ecosystem featuring content management, video delivery, and monetization capabilities.
 
 `Node.js` `Kotlin` `MySQL` `Firebase` `TypeScript`
 
-### AmTech INFO OS
+### 02. AmTech INFO OS
 **AI-Powered Content Ecosystem**
 
 An AI-driven content management and publishing ecosystem designed to automate workflows across 50+ domains.
 
 `Next.js` `Node.js` `OpenRouter` `AI APIs`
 
-### Anonymous Messenger
+### 03. Anonymous Messenger
 **Privacy-Focused Communication Platform**
 
-A privacy-oriented messaging system featuring end-to-end encryption and Tor/.onion connectivity.
+A privacy-oriented messaging platform featuring end-to-end encryption and Tor/.onion connectivity.
 
 `Node.js` `XChaCha20` `Tor`
 
-### School ERP
+### 04. School ERP
 **Institution Management System**
 
-A comprehensive platform for managing school operations, administration, and institutional workflows.
+A comprehensive platform for managing school administration and institutional workflows.
 
 `Node.js` `React` `MySQL`
 
-### Taxi Platform
+### 05. Taxi Platform
 **Real-Time Ride-Hailing System**
 
-An Uber-style transportation platform with real-time communication, ride management, and location-based services.
+A transportation platform with real-time communication, ride management, and location-based services.
 
 `Node.js` `WebSockets` `Maps API`
 
-### Casino Platform
+### 06. Casino Platform
 **Real-Time Gaming Infrastructure**
 
 A multi-game platform with real-time gameplay communication and wallet infrastructure.
@@ -155,8 +165,8 @@ A multi-game platform with real-time gameplay communication and wallet infrastru
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mynkdev-21&show_icons=true&theme=default&hide_border=true&rank_icon=github" alt="GitHub Statistics"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mynkdev-21&layout=compact&theme=default&hide_border=true" alt="Most Used Languages"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mynkdev-21&show_icons=true&include_all_commits=true&hide_border=true&theme=default&cache_seconds=86400" alt="GitHub Statistics"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mynkdev-21&layout=compact&langs_count=8&hide_border=true&theme=default&cache_seconds=86400" alt="Most Used Languages"/>
 </p>
 
 <p align="center">
@@ -173,9 +183,9 @@ A multi-game platform with real-time gameplay communication and wallet infrastru
 
 ---
 
-## 🌐 Connect With Me
+## 🤝 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/mynk-dev">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -183,7 +193,7 @@ A multi-game platform with real-time gameplay communication and wallet infrastru
     <img src="https://img.shields.io/badge/Portfolio-Visit-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://amtechinfo.online">
-    <img src="https://img.shields.io/badge/AmTech%20INFO-Company-34A853?style=for-the-badge&logo=google&logoColor=white" alt="Company"/>
+    <img src="https://img.shields.io/badge/AmTech_INFO-Company-34A853?style=for-the-badge&logo=google&logoColor=white" alt="AmTech INFO"/>
   </a>
 </p>
 
