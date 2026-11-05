@@ -31,53 +31,85 @@ I'm a software developer focused on building complete digital products, from sys
 
 ---
 
-## 💻 Technical Skills
+## 💻 Technical Skills & Expertise
 
-### Programming Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=kotlin,java,python,js,ts,php,solidity&theme=light" alt="Programming Languages"/>
-</p>
-
-### Mobile Development
+### 01. Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,firebase&theme=light" alt="Mobile Development"/>
+  <img src="https://skillicons.dev/icons?i=kotlin,java,python,js,ts,php,solidity&theme=light" />
 </p>
 
-### Frontend Development
+### 02. Mobile Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=light" alt="Frontend Development"/>
+  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,firebase&theme=light" />
 </p>
 
-### Backend Development
+`Android SDK` · `Jetpack Compose` · `ExoPlayer / Media3` · `AdMob` · `Google Play Billing`
+
+### 03. Frontend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,php&theme=light" alt="Backend Development"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=light" />
 </p>
 
-### Databases
+`TypeScript` · `JavaScript` · `Responsive UI` · `Modern Web Applications`
+
+### 04. Backend & API Engineering
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,supabase,sqlite&theme=light" alt="Databases"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,php&theme=light" />
 </p>
 
-### Cloud & DevOps
+`REST API Development` · `WebSockets` · `JWT Authentication` · `BullMQ` · `Background Jobs`
+
+### 05. Databases & Data Management
 
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,nginx,linux,cloudflare,githubactions&theme=light" alt="Cloud and DevOps"/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,supabase,sqlite&theme=light" />
 </p>
 
-### AI & Developer Tools
+`Database Design` · `Query Optimization` · `Data Modeling` · `Caching`
+
+### 06. Cloud Infrastructure & DevOps
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,openai&theme=light" alt="Developer Tools"/>
+  <img src="https://skillicons.dev/icons?i=aws,docker,nginx,linux,cloudflare,githubactions&theme=light" />
 </p>
 
-**Additional Technologies**
+`AWS EC2` · `Self-hosted Infrastructure` · `CDN Architecture` · `CI/CD` · `Server Administration`
 
-ExoPlayer / Media3 · WebSockets · BullMQ · OpenAI API · Claude API · OpenRouter · LangChain · Stripe · Razorpay · Google Play Billing · Tor · XChaCha20
+### 07. Artificial Intelligence
+
+<p>
+  <img src="https://skillicons.dev/icons?i=openai&theme=light" />
+</p>
+
+`OpenAI API` · `Claude API` · `OpenRouter` · `LangChain` · `AI Automation` · `LLM Integration`
+
+### 08. Payments & Integrations
+
+<p>
+  <img src="https://skillicons.dev/icons?i=stripe&theme=light" />
+</p>
+
+`Stripe` · `Razorpay` · `Google Play Billing` · `Payment Gateway Integration`
+
+### 09. Security & Web3
+
+<p>
+  <img src="https://skillicons.dev/icons?i=solidity&theme=light" />
+</p>
+
+`XChaCha20` · `End-to-End Encryption` · `Tor / .onion` · `BNB Smart Chain` · `Smart Contracts`
+
+### 10. Development Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,idea&theme=light" />
+</p>
+
+`Android Studio` · `IntelliJ IDEA` · `FFmpeg` · `Docker CLI` · `Linux CLI`
 
 ---
 
