@@ -1,101 +1,196 @@
-<h1 align="center">Hi, I'm Mayank Singh 👋</h1>
+# 👋 Hi, I'm Mayank Singh
+
+### Full Stack Developer · Android Engineer · Founder @ AmTech INFO
+
+Building scalable applications, intelligent systems, and production-ready software.
+
+I specialize in end-to-end product development, combining mobile engineering, backend architecture, modern frontend technologies, cloud infrastructure, and AI integrations.
+
+[**Portfolio**](https://mayankdeveloper.site) · [**LinkedIn**](https://linkedin.com/in/mynk-dev) · [**Company**](https://amtechinfo.online)
+
+---
+
+## 🧑‍💻 About Me
+
+- 🚀 Building production-grade software products since age 16.
+- 📱 Experienced in Android application development and full-stack engineering.
+- ⚙️ Focused on scalable backend systems, API architecture, and infrastructure.
+- 🤖 Exploring AI-powered applications and intelligent automation.
+- ☁️ Experienced in self-hosted infrastructure, cloud deployment, and DevOps.
+- 🏢 Founder at **AmTech INFO**.
+
+---
+
+## 💻 Technologies & Tools
+
+### Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=kotlin,java,python,js,ts,php,solidity&theme=light" alt="Programming Languages"/>
+</p>
+
+### Mobile Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,firebase&theme=light" alt="Mobile Development"/>
+</p>
+
+### Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=light" alt="Frontend Development"/>
+</p>
+
+### Backend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,php&theme=light" alt="Backend Development"/>
+</p>
+
+### Databases & Storage
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,supabase,sqlite&theme=light" alt="Databases"/>
+</p>
+
+### Cloud & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,nginx,linux,cloudflare,githubactions&theme=light" alt="Cloud and DevOps"/>
+</p>
+
+### AI & Developer Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,openai&theme=light" alt="Developer Tools"/>
+</p>
+
+**Additional Technologies**
+
+OpenAI API · Claude API · OpenRouter · LangChain · WebSockets · BullMQ · ExoPlayer / Media3 · Stripe · Razorpay · Google Play Billing · Tor · XChaCha20
+
+---
+
+## 🏆 Achievements & Highlights
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h2>16+</h2>
+      <b>Production Applications</b>
+      <br/>
+      <sub>Independently developed and shipped</sub>
+    </td>
+    <td align="center" width="50%">
+      <h2>$40K+</h2>
+      <b>AdSense Revenue</b>
+      <br/>
+      <sub>From an Android application built at age 16</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <h2>50+</h2>
+      <b>Domains</b>
+      <br/>
+      <sub>AI-powered content ecosystem</sub>
+    </td>
+    <td align="center">
+      <h2>128GB</h2>
+      <b>Self-hosted Infrastructure</b>
+      <br/>
+      <sub>AMD EPYC · 64 CPU cores</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🚀 Featured Projects
+
+### Vidora
+**Video Hosting & Monetization Platform**
+
+A video platform built with a modern backend and Android ecosystem, focusing on video delivery, content management, and monetization.
+
+`Node.js` `Kotlin` `MySQL` `Firebase` `TypeScript`
+
+### AmTech INFO OS
+**AI-Powered Content Ecosystem**
+
+An AI-driven content management and publishing ecosystem designed to automate workflows across 50+ domains.
+
+`Next.js` `Node.js` `OpenRouter` `AI APIs`
+
+### Anonymous Messenger
+**Privacy-Focused Communication Platform**
+
+A privacy-oriented messaging system featuring end-to-end encryption and Tor/.onion connectivity.
+
+`Node.js` `XChaCha20` `Tor`
+
+### School ERP
+**Institution Management System**
+
+A comprehensive platform for managing school operations, administration, and institutional workflows.
+
+`Node.js` `React` `MySQL`
+
+### Taxi Platform
+**Real-Time Ride-Hailing System**
+
+An Uber-style transportation platform with real-time communication, ride management, and location-based services.
+
+`Node.js` `WebSockets` `Maps API`
+
+### Casino Platform
+**Real-Time Gaming Infrastructure**
+
+A multi-game platform with real-time gameplay communication and wallet infrastructure.
+
+`Node.js` `WebSockets` `Supabase`
+
+---
+
+## 📊 GitHub Statistics
 
 <p align="center">
-  <strong>Full Stack Developer · Android Engineer · Founder @ AmTech INFO</strong>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mynkdev-21&show_icons=true&theme=default&hide_border=true&rank_icon=github" alt="GitHub Statistics"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mynkdev-21&layout=compact&theme=default&hide_border=true" alt="Most Used Languages"/>
 </p>
 
 <p align="center">
-  🚀 Building production-grade apps since age 16 — solo, from architecture to deployment.
+  <img width="95%" src="https://streak-stats.demolab.com?user=mynkdev-21&theme=default&hide_border=true" alt="GitHub Contribution Streak"/>
 </p>
 
 ---
 
-## 🛠️ Tech Stack
+## 🐍 Contribution Activity
 
-**📱 Mobile**
-
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
-![ExoPlayer](https://img.shields.io/badge/ExoPlayer-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
-![AdMob](https://img.shields.io/badge/AdMob-EA4335?style=for-the-badge&logo=google&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-**🔧 Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-![BullMQ](https://img.shields.io/badge/BullMQ-FF0000?style=for-the-badge&logo=redis&logoColor=white)
-
-**🎨 Frontend**
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-**🗄️ Database**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-**☁️ Cloud & DevOps**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-
-**🤖 AI**
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Claude API](https://img.shields.io/badge/Claude%20API-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![OpenRouter](https://img.shields.io/badge/OpenRouter-000000?style=for-the-badge&logo=openai&logoColor=white)
-
-**💳 Payments**
-
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
-![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=3395FF)
-![Google Play Billing](https://img.shields.io/badge/Play%20Billing-414141?style=for-the-badge&logo=googleplay&logoColor=white)
-
-**⛓️ Web3**
-
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![BNB Chain](https://img.shields.io/badge/BNB%20Smart%20Chain-F0B90B?style=for-the-badge&logo=binance&logoColor=black)
+<p align="center">
+  <img width="95%" src="https://raw.githubusercontent.com/mynkdev-21/mynkdev-21/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+</p>
 
 ---
 
-## 🏆 Highlights
+## 🌐 Connect With Me
 
-- 🎯 **16+ production apps** shipped solo
-- 📱 Built viral Android app at 16 — **$40,000+ AdSense revenue**
-- 🌐 AI content pipeline across **50+ domains**
-- 🔐 Live **Tor/.onion** anonymous messenger in production
-- ☁️ Self-hosted AMD EPYC server (128GB RAM, 64 cores)
-
----
-
-## 📦 Featured Projects
-
-| Project | Stack | Description |
-|---|---|---|
-| Vidora | Node.js · Kotlin · MySQL | Video hosting & monetisation platform |
-| AmTech INFO OS | Next.js · OpenRouter | AI blog network across 50+ domains |
-| Anonymous Messenger | Node.js · XChaCha20 · Tor | Zero-identity E2E encrypted chat |
-| School ERP | Node.js · React · MySQL | Complete institution management system |
-| Taxi App | Node.js · WebSocket · Maps | Uber-style ride hailing platform |
-| Casino Platform | Node.js · WebSocket · Supabase | 30+ games with real-time wallet |
+<p align="left">
+  <a href="https://linkedin.com/in/mynk-dev">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://mayankdeveloper.site">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://amtechinfo.online">
+    <img src="https://img.shields.io/badge/AmTech%20INFO-Company-34A853?style=for-the-badge&logo=google&logoColor=white" alt="Company"/>
+  </a>
+</p>
 
 ---
 
-## 📫 Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mynk--dev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mynk-dev)
-[![Portfolio](https://img.shields.io/badge/Portfolio-mayankdeveloper.site-22C55E?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mayankdeveloper.site)
-[![Company](https://img.shields.io/badge/Company-amtechinfo.online-8B5CF6?style=for-the-badge&logo=briefcase&logoColor=white)](https://amtechinfo.online)
+<p align="center">
+  <b>Engineering ideas into products.</b>
+  <br/>
+  <sub>Build · Innovate · Deploy · Scale</sub>
+</p>
